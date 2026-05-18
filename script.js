@@ -89,5 +89,5 @@ form.addEventListener("submit", (event) => {
   ].join("\n");
 
   formMessage.textContent = "Opening WhatsApp with your enquiry...";
-  window.location.href = `https://wa.me/263715146417?text=${encodeURIComponent(enquiry)}`;
+  window.location.href = `https://wa.me/263777176681?text=${encodeURIComponent(enquiry)}`;
 });

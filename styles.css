@@ -825,6 +825,11 @@ h3 {
 }
 
 .loader,
+.project-loader-wide {
+  background-image: url("assets/tmac-front-end-loader.jpeg");
+  background-position: center;
+}
+
 .project-loader,
 .project-stockpile,
 .dozer {
@@ -839,8 +844,7 @@ h3 {
   background-position: center;
 }
 
-.grader,
-.project-loader-wide {
+.grader {
   background-image: url("assets/tmac-loader-wide.jpeg");
   background-position: center;
 }
